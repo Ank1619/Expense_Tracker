@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="header_title">Expense Tracker</string>
+    <string name="header_subtitle">Track &amp; manage your daily spending</string>
+    <string name="total_expenses_label">TOTAL EXPENSES</string>
+    <string name="active_overview">Active Overview</string>
+    <string name="recent_summary_title">Recent Summary</string>
+    <string name="all_caught_up">All caught up!</string>
+    <string name="placeholder_description">Tap \'Add Expense\' below to log your daily spending.</string>
+    <string name="add_expense_btn">Add Expense</string>
+    <string name="expense_subtitle_format">%1$s • %2$s</string>
+
+    <!-- Dialog Strings -->
+    <string name="dialog_add_expense_title">Add New Expense</string>
+    <string name="dialog_add_expense_subtitle">Enter transaction details below</string>
+    <string name="hint_expense_name">Expense Name</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_category">Select Category</string>
+    <string name="hint_date">Date (DD-MM-YYYY)</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save_expense">Save Expense</string>
+
+    <!-- Search & Filter Strings -->
+    <string name="search_hint">Search merchant or title...</string>
+    <string name="filter_all_categories">📂 All Categories</string>
+    <string name="filter_all_months">📅 All Months</string>
+    <string name="filter_all_dates">📅 Select Date</string>
+    <string name="filter_sort">💰 Sort: Default</string>
+    <string name="filter_clear">🔄 Clear Filters</string>
+
+    <!-- Category Options -->
+    <string-array name="expense_categories">
+        <item>Food &amp; Dining</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Bills &amp; Utilities</item>
+        <item>Entertainment</item>
+        <item>Health &amp; Fitness</item>
+        <item>Travel</item>
+        <item>Education</item>
+        <item>Others</item>
+    </string-array>
+</resources>

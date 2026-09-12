@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Outer Rounded Shield / Rounded Rectangle Container -->
+    <path android:pathData="M8,4 h32 c4.4,0 8,3.6 8,8 v32 c0,4.4 -3.6,8 -8,8 h-32 c-4.4,0 -8,-3.6 -8,-8 v-32 c0,-4.4 3.6,-8 8,-8 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="135"
+                android:endX="48"
+                android:endY="48"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item android:color="#4F46E5" android:offset="0.0" />
+                <item android:color="#06B6D4" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Wallet / Card Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,20 h24 c2.2,0 4,1.8 4,4 v12 c0,2.2 -1.8,4 -4,4 h-24 c-2.2,0 -4,-1.8 -4,-4 v-12 c0,-2.2 1.8,-4 4,-4 z" />
+
+    <!-- Flap Badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M28,24 h12 c1.1,0 2,0.9 2,2 v5 c0,1.1 -0.9,2 -2,2 h-12 c-1.1,0 -2,-0.9 -2,-2 v-5 c0,-1.1 0.9,-2 2,-2 z" />
+
+    <!-- Clasp Circle -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M33,28.5 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+
+    <!-- Ascending Trend Line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M14,24 L20,19 L26,22 L34,14"
+        android:strokeWidth="2.5"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+</vector>

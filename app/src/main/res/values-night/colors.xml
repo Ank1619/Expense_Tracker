@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors in Dark Mode -->
+    <color name="primary">#818CF8</color>
+    <color name="primary_dark">#6366F1</color>
+    <color name="primary_light">#312E81</color>
+    <color name="secondary">#34D399</color>
+
+    <!-- Pending & Alert Colors in Dark Mode -->
+    <color name="amber_light">#451A03</color>
+    <color name="amber_soft">#78350F</color>
+    <color name="amber_primary">#FBBF24</color>
+    <color name="amber_border">#D97706</color>
+
+    <!-- Red / Danger Colors in Dark Mode -->
+    <color name="red_light">#4C0519</color>
+    <color name="red_soft">#881337</color>
+    <color name="red_primary">#FB7185</color>
+    <color name="red_border">#E11D48</color>
+
+    <!-- Neutral Colors in Dark Mode -->
+    <color name="bg_light">#0F172A</color>
+    <color name="surface_white">#1E293B</color>
+    <color name="text_dark">#F8FAFC</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="border_color">#334155</color>
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF0F172A</color>
+</resources>

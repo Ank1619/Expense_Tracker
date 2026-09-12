@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="secondary">#10B981</color>
+
+    <!-- Pending & Alert Colors -->
+    <color name="amber_light">#FFFBEB</color>
+    <color name="amber_soft">#FEF3C7</color>
+    <color name="amber_primary">#D97706</color>
+    <color name="amber_border">#FCD34D</color>
+
+    <!-- Red / Danger Colors -->
+    <color name="red_light">#FFF1F2</color>
+    <color name="red_soft">#FFE4E6</color>
+    <color name="red_primary">#E11D48</color>
+    <color name="red_border">#FDA4AF</color>
+
+    <!-- Neutral Colors -->
+    <color name="bg_light">#F8FAFC</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_dark">#0F172A</color>
+    <color name="text_muted">#64748B</color>
+    <color name="border_color">#E2E8F0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
